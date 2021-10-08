@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a junior at UC Berkeley pursuing a double major in computer science and economics. I'm particularly interested in building products that empower data-backed decision making.
-
 - 👋 Hi, I'm Evan Pfeifer!
 - 🌱 I’m currently a junior at UC Berkeley, studying CS & Economics
 - 🔭 I’m interested in building products that empower data-backed decision making
