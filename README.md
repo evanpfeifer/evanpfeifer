@@ -1,5 +1,3 @@
-### Hello! 👋
-
 <!--
 **evanpfeifer/evanpfeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,8 @@ Here are some ideas to get you started:
 -->
 
 I’m a junior at UC Berkeley pursuing a double major in computer science and economics. I'm particularly interested in building products that empower data-backed decision making.
+
+- 👋 Hi, I'm Evan Pfeifer!
+- 🌱 I’m currently a junior at UC Berkeley, studying CS & Economics
+- 🔭 I’m interested in building products that empower data-backed decision making
+- 📫 How to reach me: evanpfeifer@berkeley.edu
