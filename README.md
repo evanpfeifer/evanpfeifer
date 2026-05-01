@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Evan Pfeifer!
-- 🌱 I’m a senior at UC Berkeley studying CS & Economics
-- 🔭 I’m interested in building products that empower data-backed decision making
 - 📫 Reach me at evanpfeifer@berkeley.edu
