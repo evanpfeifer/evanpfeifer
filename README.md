@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Evan Pfeifer!
-- 📫 Reach me at evanpfeifer@berkeley.edu
+- 📫 Reach me at evancpfeifer@gmail.com
